@@ -32,11 +32,7 @@ public class Customer {
         this.age = age;
     }
 
-    public Customer() {
-
-        //
-
-    }
+    public Customer() {}
 
     public Integer getId() {
         return id;
