@@ -4,7 +4,7 @@ This repository contains personal source code for API development basics using t
 
 ## API Summary
 
-The API basically has one entity which is customer. It enables us to perform data management operations such as reading, writing, and modifying data while also ensuring secure flow of information within a system.
+The API basically has one entity which is Customer. It enables us to perform data management operations such as reading, writing, and modifying data while also ensuring secure flow of information within a system.
 
 ## Tools
 * IntelliJ IDEA 2022.3.2
